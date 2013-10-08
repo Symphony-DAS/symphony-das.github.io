@@ -26,25 +26,32 @@
         <h2>
 <a name="symphony-data-acquisition-system" class="anchor" href="#symphony-data-acquisition-system"><span class="octicon octicon-link"></span></a>Symphony Data Acquisition System</h2>
 
-<p>Symphony is a data acquisition system focused on electrophysiology experiments. Symphony allows research scientists to write user-configurable acquisition routines in MATLAB. It also provides an interface to run those routines as part of an overall experiment.</p>
+<p>Symphony is a data acquisition system focused on electrophysiology experiments. Symphony allows research scientists to write well-structured, user-configurable acquisition routines in MATLAB without getting caught up in a lot of non-essential details. It also provides an easy-to-use graphical user interface for running those routines as part of an overall, well-documented experiment.</p>
 
 <h2>
-<a name="install" class="anchor" href="#install"><span class="octicon octicon-link"></span></a>Install</h2>
+<a name="requirements" class="anchor" href="#requirements"><span class="octicon octicon-link"></span></a>Requirements</h2>
 
-<p>There are two main components of Symphony: the core framework and the MATLAB interface. At the moment these components need to be installed separately.</p>
+<p>For data acquisition:</p>
 
-<h4>
-<a name="core-framework" class="anchor" href="#core-framework"><span class="octicon octicon-link"></span></a>Core Framework:</h4>
+<ul>
+<li>HEKA ITC18 (PCI or USB interface)</li>
+<li>Axon MultiClamp 700B</li>
+<li>Windows 7 (32 or 64-bit)</li>
+<li>MATLAB 2012b or later (32-bit only)</li>
+</ul><p>For development and simulation only:</p>
 
-<p>Download the <a href="https://build.physionconsulting.com/job/symphony-core/lastSuccessfulBuild/artifact/src/symphony-core/SymphonyWixInstaller/bin/x86/Release/Symphony.msi">latest nightly build</a> of the core framework and run the installer.</p>
-
-<h4>
-<a name="matlab-interface" class="anchor" href="#matlab-interface"><span class="octicon octicon-link"></span></a>MATLAB Interface:</h4>
+<ul>
+<li>Windows, OS X, or Linux</li>
+<li>MATLAB 2012b or later</li>
+</ul><h2>
+<a name="installation" class="anchor" href="#installation"><span class="octicon octicon-link"></span></a>Installation</h2>
 
 <p>Clone the Symphony GitHub repository via Terminal or Git Bash:</p>
 
 <pre lang="git"><code>git clone https://github.com/Symphony-DAS/Symphony.git
 </code></pre>
+
+<p>On Windows, also download the <a href="https://build.physionconsulting.com/job/symphony-core/lastSuccessfulBuild/artifact/src/symphony-core/SymphonyWixInstaller/bin/x86/Release/Symphony.msi">latest nightly build</a> of the core framework and run the installer.</p>
 
 <h2>
 <a name="documentation" class="anchor" href="#documentation"><span class="octicon octicon-link"></span></a>Documentation</h2>
