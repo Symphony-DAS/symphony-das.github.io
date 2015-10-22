@@ -6,11 +6,14 @@
                     <img class="img-responsive" src="img/profile.png" alt="">
                     <div class="intro-text">
                         <span class="name">{{ site.title }}</span>
-                        <span class="skills">{{ site.skills }}</span>
+                        <span class="subtitle">{{ site.subtitle }}</span>
                         <div class="col-lg-8 col-lg-offset-2 text-center">
-                            <a href="#" class="btn btn-lg btn-outline">
-                                <i class="fa fa-download"></i> Download Theme
+                            <a href="{{ site.download }}" class="btn btn-lg btn-outline">
+                                <i class="fa fa-download"></i> Download Beta
                             </a>
+                        </div>
+                        <div class="col-lg-8 col-lg-offset-2 text-center">
+                          <span>{{ site.version }}</span>
                         </div>
                     </div>
                 </div>
