@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
+    color: #{{ site.color.accent }};
 }
 
 h1,
@@ -163,6 +163,14 @@ header .intro-text .subtitle {
 
 .navbar .navbar-nav li a:focus {
     outline: 0;
+}
+
+.navbar-default .navbar-nav li a:hover {
+    color: #{{ site.color.accent }};
+}
+
+.navbar-default .navbar-brand:hover {
+  color: #{{ site.color.accent }};
 }
 
 .navbar-default,
@@ -318,7 +326,7 @@ section.success {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #{{ site.color.primary }};
+    color: #{{ site.color.accent }};
 }
 
 form .row:first-child .floating-label-form-group {
@@ -344,7 +352,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #{{ site.color.secondary-dark }};
+    background-color: #{{ site.color.secondary }};
 }
 
 .btn-social {
@@ -445,7 +453,7 @@ footer .footer-below {
 }
 
 .navbar-nav>.active>a {
-    background-color: #{{ site.color.secondary-dark }} !important;
+    background-color: #{{ site.color.accent }} !important;
 }
 
 // Fix modal mouse wheel issues
