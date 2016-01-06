@@ -17,7 +17,7 @@ color:
   primary: 2196F3
   primary-rgb: "33,150,244"
   secondary: 1976D2
-  accent: 1976D2
+  accent: 2196F3
 
 # Footer settings
 footer:
