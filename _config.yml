@@ -4,8 +4,8 @@ subtitle: MATLAB-based electrophysiology data acquisition system
 email: symphony-das@googlegroups.com
 url: http://symphony-das.github.io
 description: "Symphony is a flexible and extensible MATLAB-based electrophysiology data acquisition system."
-download: https://github.com/Symphony-DAS/symphony-matlab2/releases/download/2.0.1.1/Symphony.mlappinstall
-version: Version 2.0.1.1 (2.0-b1)
+download: https://github.com/Symphony-DAS/symphony-matlab2/releases/download/2.0.1.2/Symphony.mlappinstall
+version: Version 2.0.1.2 (2.0-b2)
 github: https://github.com/Symphony-DAS/symphony-matlab2
 
 # Collections
@@ -17,7 +17,7 @@ color:
   primary: 2196F3
   primary-rgb: "33,150,244"
   secondary: 1976D2
-  accent: FF4081
+  accent: 1976D2
 
 # Footer settings
 footer:
