@@ -15,9 +15,9 @@ collections:
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 2196F3
-  primary-rgb: "68,138,255"
+  primary-rgb: "33,150,244"
   secondary: 1976D2
-  accent: 448AFF
+  accent: 82B1FF
 
 # Footer settings
 footer:
