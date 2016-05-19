@@ -1,0 +1,22 @@
+# Permalinks
+#
+permalink:           pretty
+
+# Setup
+title:               Symphony
+tagline:             'Electrophysiology data acquisition system'
+description:         'Symphony is a MATLAB-based data acquisition system for electrophysiologists.'
+url:                 http://symphony-das.github.io
+baseurl:             ''
+
+# About/contact
+author:
+  name:              Symphony-DAS
+  url:               http://symphony-das.github.io
+  email:             symphony-das@googlegroups.com
+
+# Custom vars
+version:             2.0.2.1
+
+github:
+  repo:              https://github.com/Symphony-DAS/symphony-matlab2
