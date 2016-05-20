@@ -13,25 +13,38 @@ Protocol-Driven Acquisition in MATLAB</h1>
 
 <hr>
 
-## Meet Symphony
+## What is Symphony?
 Symphony is a MATLAB-based data acquisition system for electrophysiologists. It provides a framework for writing acquisition routines and a user interface to conduct experiments.
 
 ![hero](public/images/hero.png)
 
 <hr>
 
-## Protocol-Driven
+## Protocol-Driven Acquisition
+Symphony is centered around protocol-driven acquisition. Protocols are acquisition routines you write in MATLAB using the Symphony framework.
 
 ![protocol](public/images/protocol.png)
 
 <hr>
 
-## Data Manager
+## Built-in Data Manager
+Symphony includes a built-in data manager for browsing, viewing, and annotating data during experiments.
 
 ![data manager](public/images/data-manager.png)
 
 <hr>
 
-## Metadata
+## Flexible Metadata System
+Symphony includes a flexible metadata definition and collection system.
 
 ![metadata](public/images/metadata.png)
+
+## Modular and Extensible
+
+![modular](public/images/modular.png)
+
+## Device-Agnostic Programming Interface
+
+![devices](public/images/devices.png)
+
+## Free and Open Source

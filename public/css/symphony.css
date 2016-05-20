@@ -29,6 +29,10 @@ hr {
   border-bottom: 0;
 }
 
+li {
+  list-style: none;
+}
+
 /* Matlab Blue */
 .theme-matlab-blue .sidebar,
 .theme-matlab-blue .sidebar-toggle:active,
