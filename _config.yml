@@ -5,7 +5,7 @@ permalink:           pretty
 # Setup
 title:               Symphony
 tagline:             'Electrophysiology data acquisition system'
-description:         'Symphony is a MATLAB-based data acquisition system for electrophysiologists.'
+description:         'Symphony is a MATLAB based data acquisition system for electrophysiologists.'
 url:                 http://symphony-das.github.io
 baseurl:             ''
 
