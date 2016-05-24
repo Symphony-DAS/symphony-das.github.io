@@ -1,35 +1,22 @@
-# Site settings
-title: Symphony
-subtitle: MATLAB-based electrophysiology data acquisition system
-email: symphony-das@googlegroups.com
-url: http://symphony-das.github.io
-description: "Symphony is a flexible and extensible MATLAB-based electrophysiology data acquisition system."
-download: https://github.com/Symphony-DAS/symphony-matlab2/releases/download/2.0.2.1/Symphony.mlappinstall
-version: Version 2.0.2.1 (2.0-rc1)
-github: https://github.com/Symphony-DAS/symphony-matlab2
+# Permalinks
+#
+permalink:           pretty
 
-# Collections
-collections:
-- features
+# Setup
+title:               Symphony
+tagline:             'Electrophysiology data acquisition system'
+description:         'Symphony is a MATLAB based data acquisition system for electrophysiologists.'
+url:                 http://symphony-das.github.io
+baseurl:             ''
 
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: 2196F3
-  primary-rgb: "33,150,244"
-  secondary: 1976D2
-  accent: 2196F3
+# About/contact
+author:
+  name:              Symphony-DAS
+  url:               http://symphony-das.github.io
+  email:             symphony-das@googlegroups.com
 
-# Footer settings
-footer:
-  copyright: Symphony-DAS
+# Custom vars
+version:             2.0.2.1
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: google
-    url: https://groups.google.com/forum/#!forum/symphony-das
-  - title: github
-    url: https://github.com/Symphony-DAS/symphony-matlab2
-
-# Build settings
-markdown: kramdown
-permalink: pretty
+github:
+  repo:              https://github.com/Symphony-DAS/symphony-matlab2
