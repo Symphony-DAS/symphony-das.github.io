@@ -16,7 +16,7 @@ MultiClamp 700A and 700B
 AxoPatch  
 
 ## Acknowledgements
-Mark Cafaro   
+Mark Cafaro  
 Frank Midgley  
 Ted Neward  
 Barry Wark  
