@@ -38,9 +38,6 @@ li {
 .codebox .featherlight-content {
   background: #f9f9f9;
 }
-.codebox code {
-  padding: 0;
-}
 .codebox .gist .gist-file {
   margin-bottom: 0;
 }
