@@ -37,13 +37,12 @@ li {
 
 .codebox .featherlight-content {
   background: #f9f9f9;
-  border-bottom: 0;
 }
 .codebox code {
   padding: 0;
 }
 .codebox .gist .gist-file {
-  margin-bottom: 25px;
+  margin-bottom: 0;
 }
 
 /* Matlab Blue */

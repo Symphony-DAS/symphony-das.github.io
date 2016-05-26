@@ -28,7 +28,7 @@ Symphony is centered around protocol-driven acquisition. Protocols are high-leve
 <a class="btn" href="#" data-featherlight="#protocol" data-featherlight-variant="codebox">View an Example Protocol</a>
 
 <div class="lightbox" id="protocol">
-  <code style="width=50%;" data-gist-id="cafarm/0ad2661c46829cbc727fbdbf345d2a7c" data-gist-hide-footer="true" data-gist-hide-line-numbers="true"></code>
+  <code data-gist-id="cafarm/0ad2661c46829cbc727fbdbf345d2a7c" data-gist-hide-footer="true" data-gist-hide-line-numbers="true"></code>
 </div>
 
 <hr>
@@ -48,7 +48,7 @@ Symphony uses a flexible data model that supports a wide variety of organization
 <a class="btn" href="#" data-featherlight="#description" data-featherlight-variant="codebox">View an Example Description</a>
 
 <div class="lightbox" id="description">
-  <code style="width=50%;" data-gist-id="cafarm/b334cd0cf11ded942a12a1f8de8796f7" data-gist-hide-footer="true" data-gist-hide-line-numbers="true"></code>
+  <code data-gist-id="cafarm/b334cd0cf11ded942a12a1f8de8796f7" data-gist-hide-footer="true" data-gist-hide-line-numbers="true"></code>
 </div>
 
 <hr>
