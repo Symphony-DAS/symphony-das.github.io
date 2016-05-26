@@ -4,12 +4,12 @@ title: Home
 ---
 
 <img src="public/images/logo@2x.png" width="200" height="200">
+
 <h1>Simple, Powerful, Extensible<br>
 Protocol-Driven Acquisition in MATLAB&reg;</h1>
-<p>
-  <a href="{{ site.github.repo }}/releases/download/{{ site.version }}/Symphony.mlappinstall" class="btn">Download</a>
-  <a href="{{ site.github.repo }}" class="btn">GitHub</a>
-</p>
+
+<a href="{{ site.github.repo }}/releases/download/{{ site.version }}/Symphony.mlappinstall" class="btn">Download</a>
+<a href="{{ site.github.repo }}" class="btn">GitHub</a>
 
 <hr>
 
@@ -25,9 +25,11 @@ Symphony is centered around protocol-driven acquisition. Protocols are high-leve
 
 ![protocol](public/images/protocol.png)
 
-<p>
-  <a href="{{ site.github.repo }}/blob/master/src/main/resources/examples/%2Bio/%2Bgithub/%2Bsymphony_das/%2Bprotocols/Pulse.m" class="btn">View an Example Protocol</a>
-</p>
+<a class="btn" href="#" data-featherlight="#protocol" data-featherlight-variant="codebox">View an Example Protocol</a>
+
+<div class="lightbox" id="protocol">
+  <code style="width=50%;" data-gist-id="cafarm/0ad2661c46829cbc727fbdbf345d2a7c" data-gist-hide-footer="true" data-gist-hide-line-numbers="true"></code>
+</div>
 
 <hr>
 
@@ -43,9 +45,11 @@ Symphony uses a flexible data model that supports a wide variety of organization
 
 ![metadata](public/images/metadata.png)
 
-<p>
-  <a href="{{ site.github.repo }}/blob/master/src/main/resources/examples/%2Bio/%2Bgithub/%2Bsymphony_das/%2Bsources/Subject.m" class="btn">View an Example Description</a>
-</p>
+<a class="btn" href="#" data-featherlight="#description" data-featherlight-variant="codebox">View an Example Description</a>
+
+<div class="lightbox" id="description">
+  <code style="width=50%;" data-gist-id="cafarm/b334cd0cf11ded942a12a1f8de8796f7" data-gist-hide-footer="true" data-gist-hide-line-numbers="true"></code>
+</div>
 
 <hr>
 

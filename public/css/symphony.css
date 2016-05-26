@@ -33,6 +33,19 @@ li {
   list-style: none;
 }
 
+.lightbox { display: none; }
+
+.codebox .featherlight-content {
+  background: #f9f9f9;
+  border-bottom: 0;
+}
+.codebox code {
+  padding: 0;
+}
+.codebox .gist .gist-file {
+  margin-bottom: 25px;
+}
+
 /* Matlab Blue */
 .theme-matlab-blue .sidebar,
 .theme-matlab-blue .sidebar-toggle:active,
