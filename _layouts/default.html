@@ -43,8 +43,17 @@
         }, false);
       })(document);
     </script>
-  </body>
 
-  {% include foot.html %}
+    <script>
+      $("document").ready(function() {
+        $click = $('.collapse-toggle');
+        $click.click(function() {
+          $(this).toggleClass("active");
+          $collapse = $(this).parent().next();
+          $collapse.slideToggle();
+        });
+      });
+    </script>
+  </body>
 
 </html>

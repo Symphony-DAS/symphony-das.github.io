@@ -3,11 +3,12 @@
 }
 
 a:hover,
-a:focus {
+a:focus,
+a:active {
   text-decoration: none;
 }
 
-.btn {
+.container .btn {
   display: inline-block;
   padding: .25rem 1rem;
   font-family: "PT Sans", sans-serif;
@@ -15,12 +16,20 @@ a:focus {
   border: .1rem solid #eee;
   border-radius: .1rem;
 }
-.btn:hover,
-.btn:focus {
+.container .btn:hover,
+.container .btn:focus,
+.container .btn:active,
+.container .btn.active {
   color: #fff;
   background-color: #0072ba;
   border-color: #0072ba;
 }
+
+/*.theme-matlab-blue .btn:hover,
+.theme-matlab-blue .btn:focus,
+.theme-matlab-blue .btn:active, .active {
+  color: #fff;
+}*/
 
 hr {
   max-width: 6rem;
@@ -29,17 +38,8 @@ hr {
   border-bottom: 0;
 }
 
-li {
-  list-style: none;
-}
-
-.lightbox { display: none; }
-
-.codebox .featherlight-content {
-  background: #f9f9f9;
-}
-.codebox .gist .gist-file {
-  margin-bottom: 0;
+.collapse {
+  display: none;
 }
 
 /* Matlab Blue */
@@ -60,8 +60,4 @@ li {
 .theme-matlab-blue .sidebar-toggle,
 .theme-matlab-blue .related-posts li a:hover {
   color: #0072ba;
-}
-.theme-matlab-blue .btn:hover,
-.theme-matlab-blue .btn:focus {
-  color: #fff;
 }
