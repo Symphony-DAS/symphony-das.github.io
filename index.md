@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<img src="public/images/logo@2x.png" width="200" height="200">
+<img src="public/images/logo.png" srcset="public/images/logo.png 1x, public/images/logo@2x.png 2x" alt="Symphony Logo">
 
 <h1>Simple, Powerful, Extensible<br>
 Protocol-Driven Acquisition in MATLAB&reg;</h1>
@@ -70,7 +70,7 @@ Symphony abstracts away device-specific details that allow your acquisition rout
 ## Free and Open Source
 Symphony is released under the [MIT License](https://opensource.org/licenses/MIT), which is an [open source license](https://opensource.org/docs/osd). You can share and change the source code to your heart's content!
 
-<img src="public/images/osi@2x.png" width="200" height="200">
+<img src="public/images/osi.png" srcset="public/images/osi.png 1x, public/images/osi@2x.png 2x" alt="OSI Logo">
 
 <hr>
 

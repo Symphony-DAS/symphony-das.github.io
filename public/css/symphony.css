@@ -25,12 +25,6 @@ a:active {
   border-color: #0072ba;
 }
 
-/*.theme-matlab-blue .btn:hover,
-.theme-matlab-blue .btn:focus,
-.theme-matlab-blue .btn:active, .active {
-  color: #fff;
-}*/
-
 hr {
   max-width: 6rem;
   margin: 3rem auto;
