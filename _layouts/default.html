@@ -49,9 +49,9 @@
         $click = $('.collapse-toggle');
         $click.click(function() {
           $(this).toggleClass("active");
-          $(this).blur();
           $collapse = $(this).parent().next();
           $collapse.slideToggle();
+          $("body").mousover(); // defocus for touch devices
         });
       });
     </script>
