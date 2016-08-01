@@ -18,6 +18,8 @@ Symphony is a MATLAB based data acquisition system for electrophysiologists. It 
 
 ![hero](public/images/hero.png)
 
+<a href="{{ site.gitbook.book }}/content/" class="btn">Documentation</a>
+
 <hr>
 
 ## Protocol-Driven Acquisition
