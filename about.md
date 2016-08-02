@@ -6,8 +6,8 @@ title: About
 Symphony is developed and maintained by the Symphony-DAS GitHub organization. Primary contributors include The Rieke Lab, The Murphy Lab, and Physion LLC.
 
 ## System Requirements
-MATLAB R2016a (x64)  
-Windows 7 (x64)  
+MATLAB R2016a+ (x64)  
+Windows 7+ (x64)  
 .NET Framework 4.5  
 
 ## Supported Hardware
