@@ -3,4 +3,6 @@ layout: feature
 title: Data Manager
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pYlKYf4zSiY" frameborder="0" allowfullscreen></iframe>
+<center>
+<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/pYlKYf4zSiY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+</center>
