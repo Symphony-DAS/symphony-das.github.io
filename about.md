@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Symphony is developed and maintained by the Symphony-DAS GitHub organization. Primary contributors have included the Rieke Lab at the University of Washington, the Murphy Lab at Janelia Research Campus, and Physion LLC (now Ovation.io).
+Symphony is developed and maintained by the Symphony-DAS GitHub organization. Primary contributors have included the Rieke Lab at University of Washington, the Murphy Lab at Janelia Research Campus, and Physion LLC (now Ovation.io).
 
 ## System Requirements
 MATLAB R2016a+ (x64)  
