@@ -39,6 +39,8 @@ Symphony includes a built-in data manager to browse, view, and annotate data dur
 
 ![data manager](public/images/data-manager.png)
 
+<a href="{{ site.baseurl }}/data-manager/index.html" class="btn">View the Data Manager in Action</a>
+
 <hr>
 
 ## Flexible Data Model
