@@ -16,7 +16,7 @@ author:
   email:             symphony-das@googlegroups.com
 
 # Custom vars
-version:             2.5.3.2
+version:             2.5.3.3
 
 github:
   repo:              https://github.com/Symphony-DAS/symphony-matlab
